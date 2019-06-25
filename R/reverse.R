@@ -1,6 +1,8 @@
 #' Reverse
 #'
-#' reverses a vector.
+#' reverse returns a copy of vector
+#' whose elements are in the reverse
+#' order.
 #'
 #' @param x
 #'
